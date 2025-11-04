@@ -1,24 +1,27 @@
 # 👋 Hi, I'm Shreshtha Gupta
 
 🎓 **First-year B.Tech CSE student** at **IILM University, Greater Noida**  
-💻 Currently learning **Python**, **Web Development**, and exploring the world of **Computer Science**  
+💻 Currently learning **Python**, **C**, and exploring **GitHub** and **VS Code**  
 🌱 Excited to grow my skills and build meaningful projects in the future!
 
 ---
 
 ### 🧠 About Me
 - 🚀 Beginning my journey into coding and technology  
-- 🌱 Learning the fundamentals of **programming**, **problem-solving**, and **web design**  
+- 🌱 Learning the fundamentals of **programming** and **problem-solving**  
 - 💬 Open to learning from others and exploring new ideas  
 - 📫 Reach me at: **shreshthg791@gmail.com**
 
 ---
 
 ### 🛠️ Tools & Technologies I'm Learning
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
